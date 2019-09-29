@@ -1,0 +1,11 @@
+PUT dakalake
+{
+  "mappings": {
+    "properties": {
+      "location": {
+        "type": "geo_point"
+      }
+    }
+  }
+}
+
